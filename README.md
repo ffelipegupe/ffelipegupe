@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a full-stack software developer with an advanced level of English (C1). I have experience leading teams, developing APIs, managing databases and developing services in docker.
+🔭 I am a full-stack software developer with an advanced level of English (C1). I have experience leading teams, developing APIs, managing databases and developing services in docker.
 
-I am well-versed in different programming languages and technologies such as Python, Golang, JavaScript, TypeScript, MySQL, Docker, PHP, Git, Github, Angular, Ruby on Rails, Linux, Java and Scrum, among others. 
+😄 I am well-versed in different programming languages and technologies such as Python, Golang, JavaScript, TypeScript, MySQL, Docker, PHP, Git, Github, Angular, Ruby on Rails, Linux, Java and Scrum, among others. 
 
-Some of my highlights are goal oriented, assertive communication, problem solving, among others.
+🌱 Some of my highlights are goal oriented, assertive communication, problem solving, among others.
